@@ -1,0 +1,71 @@
+h1{
+    color:rgb(15, 5, 5);
+    font-family: font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;;
+}
+
+
+
+p{color: rgb(132, 55, 55);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.h1:hover{
+    background-color: burlywood;
+}
+
+/* .star{
+    position: relative;
+    position: absolute; top: 50%; left: 50%;
+} */
+.class-star{
+    display: flex;
+    align-items: center;
+}
+.container{
+    display: grid;
+    align-items: center;
+   
+    column-gap: 5px;
+}
+#wow{
+    border: thick brown solid;
+    width: 450px;
+    height: 210px;
+    margin: 120px auto 0 auto;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    text-align: justify;
+}
+#hlo{
+    border: thick brown solid;
+    width: 450px;
+    height: 260px;
+    margin: 10px auto 0 auto;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
